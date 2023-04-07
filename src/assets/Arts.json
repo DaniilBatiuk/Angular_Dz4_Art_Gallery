@@ -1,0 +1,28 @@
+{
+  "paintings": [
+    {
+    "name": "Starry Night",
+    "year": 1889,
+    "author": "Vincent van Gogh",
+    "dimensions": "73.7 cm × 92.1 cm (29 in × 36¼ in)",
+    "location": "Museum of Modern Art, New York City",
+    "photo": "assets/photos/1.jpg"
+    },
+    {
+    "name": "he Persistence of Memory",
+    "year": 1931,
+    "author": "Salvador Dalí",
+    "dimensions": "24 cm × 33 cm (9.5 in × 13 in)",
+    "location": "Museum of Modern Art, New York City",
+    "photo": "assets/photos/2.jpg"
+    },
+    {
+    "name": "Girl with a Pearl Earring",
+    "year": 1665,
+    "author": "Johannes Vermeer",
+    "dimensions": "44.5 cm × 39 cm (17.5 in × 15.4 in)",
+    "location": "Mauritshuis, The Hague",
+    "photo": "assets/photos/3.jpg"
+    }
+  ]
+}
